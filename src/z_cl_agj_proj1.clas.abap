@@ -1,11 +1,11 @@
-class Z_CL_AGJ_PROJ1 definition
-  public
-  final
-  create public .
+CLASS Z_CL_AGJ_PROJ1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
